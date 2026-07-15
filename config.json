@@ -1,0 +1,59 @@
+{
+  "apps": [
+    {
+      "key": "개인",
+      "label": "i-ONE Bank 개인고객용",
+      "ios_app_id": "1460543865",
+      "android_package": "com.ibk.android.ionebank"
+    },
+    {
+      "key": "기업",
+      "label": "i-ONE Bank 기업고객용",
+      "ios_app_id": "6738371777",
+      "android_package": "com.ibk.android.kiup"
+    },
+    {
+      "key": "알림",
+      "label": "i-ONE 알림",
+      "ios_app_id": "447550573",
+      "android_package": "com.IBK.SmartPush.app"
+    },
+    {
+      "key": "미니",
+      "label": "i-ONE Bank 미니",
+      "ios_app_id": "743687249",
+      "android_package": "com.ibk.neobanking.silver"
+    },
+    {
+      "key": "글로벌",
+      "label": "i-ONE Bank Global",
+      "ios_app_id": "787064809",
+      "android_package": "com.ibk.neobanking.mini"
+    }
+  ],
+
+  "ios_country": "kr",
+  "ios_max_pages": 10,
+
+  "android_lang": "ko",
+  "android_country": "kr",
+  "android_max_count": 200,
+
+  "_comment_negative": "별점이 이 값 이하이면 '부정적 리뷰'로 분류합니다 (1~5점 중).",
+  "negative_max_rating": 2,
+
+  "_comment_categories": "리뷰 내용에 아래 키워드가 포함되면 해당 불만사항으로 분류합니다. 위에서부터 순서대로 검사하여 먼저 일치하는 항목으로 분류됩니다. 키워드는 자유롭게 추가/수정 가능합니다.",
+  "complaint_categories": [
+    { "name": "로그인", "keywords": ["로그인", "비밀번호", "패스워드", "지문인증", "Face ID", "페이스아이디", "로그아웃", "아이디 찾기", "잠금"] },
+    { "name": "알림/푸시", "keywords": ["푸시", "알림이 안", "알림 설정", "알림이 안와", "알림이 안옵니다", "알림이 안 옵니다", "알림 안 옴", "알림 안와"] },
+    { "name": "앱 실행/오류", "keywords": ["튕", "먹통", "멈춤", "강제종료", "오류", "에러", "실행이 안", "꺼짐", "꺼져", "버그", "다운되", "응답 없음", "느려서 못"] },
+    { "name": "업데이트 불만", "keywords": ["업데이트", "최신버전", "버전업", "강제 업데이트", "업글", "업데이트 후"] },
+    { "name": "신분증인식", "keywords": ["신분증", "주민등록증", "운전면허증", "신분증 촬영", "신분증 인식", "본인인증", "신분 확인"] },
+    { "name": "인증/보안", "keywords": ["공동인증서", "보안카드", "OTP", "인증서", "지문", "얼굴인식", "간편인증", "공동인증", "보안승급"] },
+    { "name": "이체/거래", "keywords": ["이체", "송금", "거래", "출금", "입금", "계좌", "결제"] },
+    { "name": "속도/성능", "keywords": ["느려", "느림", "로딩", "렉", "버퍼링", "끊김", "속도가"] },
+    { "name": "디자인/사용성", "keywords": ["화면", "디자인", "UI", "사용하기 불편", "복잡", "메뉴가", "사용성"] },
+    { "name": "고객센터", "keywords": ["고객센터", "상담", "불친절", "응답이 없", "전화 연결", "상담원"] }
+  ],
+  "default_category": "기타"
+}

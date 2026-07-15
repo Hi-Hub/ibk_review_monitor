@@ -1,0 +1,16 @@
+{
+  "name": "IBK 부정 리뷰 모니터링",
+  "short_name": "리뷰모니터링",
+  "description": "IBK i-ONE Bank 5개 앱의 부정 리뷰를 모아 보여주는 모니터링 앱",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F7F8FA",
+  "theme_color": "#1F3B66",
+  "lang": "ko",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
