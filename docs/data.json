@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08 00:55:54",
+  "generated_at": "2026-09-09 01:04:15",
   "summary": {
     "channels": [
       "안드로이드개인",
@@ -14,6 +14,22 @@
       "IOS글로벌"
     ],
     "dates": [
+      {
+        "date": "09월 07일",
+        "counts": {
+          "안드로이드개인": 1,
+          "IOS개인": 0,
+          "안드로이드기업": 0,
+          "IOS기업": 0,
+          "안드로이드알림": 0,
+          "IOS알림": 0,
+          "안드로이드미니": 0,
+          "IOS미니": 0,
+          "안드로이드글로벌": 0,
+          "IOS글로벌": 0
+        },
+        "total": 1
+      },
       {
         "date": "09월 06일",
         "counts": {
@@ -12864,7 +12880,7 @@
       }
     ],
     "channel_totals": {
-      "안드로이드개인": 94,
+      "안드로이드개인": 95,
       "IOS개인": 260,
       "안드로이드기업": 115,
       "IOS기업": 91,
@@ -12875,7 +12891,7 @@
       "안드로이드글로벌": 16,
       "IOS글로벌": 7
     },
-    "grand_total": 1274
+    "grand_total": 1275
   },
   "channels": [
     {
@@ -12883,9 +12899,18 @@
       "app_label": "i-ONE Bank 개인고객용",
       "platform": "Android",
       "error": null,
-      "total": 94,
+      "total": 95,
       "new_count": 1,
       "reviews": [
+        {
+          "date_disp": "09월 07일",
+          "date_sort": "2026-09-07 06:14:18",
+          "rating": 1,
+          "author": "tae seong kim",
+          "content": "26-09-07 15:13 지금 앱이 안들어가지는데요??",
+          "category": "기타",
+          "is_new": true
+        },
         {
           "date_disp": "09월 06일",
           "date_sort": "2026-09-06 03:51:33",
@@ -12893,7 +12918,7 @@
           "author": "Jerry Lee",
           "content": "인증 문자가 안와요 -_-",
           "category": "기타",
-          "is_new": true
+          "is_new": false
         },
         {
           "date_disp": "09월 05일",
@@ -18937,7 +18962,7 @@
       "platform": "iOS",
       "error": null,
       "total": 372,
-      "new_count": 1,
+      "new_count": 0,
       "reviews": [
         {
           "date_disp": "09월 06일",
@@ -18946,7 +18971,7 @@
           "author": "이용자93715",
           "content": "[알림 앱을 따로 깔아야 알림이 뜨냐?] 지우고 다시깔고 몇번을 해도 핸드폰기기에 알람설정을 마쳐도 뜨지를 않음ㅡㅡ",
           "category": "기타",
-          "is_new": true
+          "is_new": false
         },
         {
           "date_disp": "10월 10일",
