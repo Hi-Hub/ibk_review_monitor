@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10 02:08:03",
+  "generated_at": "2026-10-11 01:35:02",
   "summary": {
     "channels": [
       "안드로이드개인",
@@ -13636,7 +13636,7 @@
       "platform": "iOS",
       "error": null,
       "total": 253,
-      "new_count": 1,
+      "new_count": 0,
       "reviews": [
         {
           "date_disp": "10월 07일",
@@ -13645,7 +13645,7 @@
           "author": "기업은X",
           "content": "[X같은 확인절차 좀 바꾸시죠] 휴대폰 변경시 앱 새로 깔고 쓰는 것에 대해 이상거래 탐지 사유로 확인시 영업점 방문해 인증하는 건 제외 바랍니다 화상통화까지 허용되는 세상에 뭔 영업점 방문같은 구시대적 관습 좀 타파하세요",
           "category": "이체/거래",
-          "is_new": true
+          "is_new": false
         },
         {
           "date_disp": "10월 07일",
