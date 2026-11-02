@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01 01:53:57",
+  "generated_at": "2026-11-02 02:08:15",
   "summary": {
     "channels": [
       "안드로이드개인",
@@ -14,6 +14,22 @@
       "IOS글로벌"
     ],
     "dates": [
+      {
+        "date": "10월 31일",
+        "counts": {
+          "안드로이드개인": 1,
+          "IOS개인": 1,
+          "안드로이드기업": 0,
+          "IOS기업": 0,
+          "안드로이드알림": 0,
+          "IOS알림": 0,
+          "안드로이드미니": 1,
+          "IOS미니": 0,
+          "안드로이드글로벌": 0,
+          "IOS글로벌": 0
+        },
+        "total": 3
+      },
       {
         "date": "10월 30일",
         "counts": {
@@ -461,22 +477,6 @@
           "IOS글로벌": 0
         },
         "total": 5
-      },
-      {
-        "date": "09월 28일",
-        "counts": {
-          "안드로이드개인": 1,
-          "IOS개인": 0,
-          "안드로이드기업": 0,
-          "IOS기업": 0,
-          "안드로이드알림": 0,
-          "IOS알림": 0,
-          "안드로이드미니": 0,
-          "IOS미니": 0,
-          "안드로이드글로벌": 0,
-          "IOS글로벌": 0
-        },
-        "total": 1
       },
       {
         "date": "09월 27일",
@@ -13041,17 +13041,17 @@
     ],
     "channel_totals": {
       "안드로이드개인": 66,
-      "IOS개인": 249,
+      "IOS개인": 250,
       "안드로이드기업": 115,
       "IOS기업": 95,
       "안드로이드알림": 106,
       "IOS알림": 373,
-      "안드로이드미니": 137,
+      "안드로이드미니": 138,
       "IOS미니": 75,
       "안드로이드글로벌": 16,
       "IOS글로벌": 7
     },
-    "grand_total": 1239
+    "grand_total": 1241
   },
   "channels": [
     {
@@ -13060,8 +13060,17 @@
       "platform": "Android",
       "error": null,
       "total": 66,
-      "new_count": 2,
+      "new_count": 1,
       "reviews": [
+        {
+          "date_disp": "10월 31일",
+          "date_sort": "2026-10-31 11:00:59",
+          "rating": 2,
+          "author": "박세은",
+          "content": "느려요",
+          "category": "속도/성능",
+          "is_new": true
+        },
         {
           "date_disp": "10월 30일",
           "date_sort": "2026-10-30 10:28:47",
@@ -13069,7 +13078,7 @@
           "author": "엄태정",
           "content": "기업은행앱으로 안들어가지는거죠. 저만 그런건가요? 몇일전 까지는잘 되었는데",
           "category": "기타",
-          "is_new": true
+          "is_new": false
         },
         {
           "date_disp": "10월 30일",
@@ -13078,7 +13087,7 @@
           "author": "황지원",
           "content": "왜 갑자기 느려진거죠?",
           "category": "속도/성능",
-          "is_new": true
+          "is_new": false
         },
         {
           "date_disp": "10월 28일",
@@ -13646,15 +13655,6 @@
           "content": "업데이트해도 로그인후 다음화면으로 안넘어가집니다 하단에 자산 상품 톡톡송금 이런건 뜨는데 위에는 전부 하얀배경에 가운데 하늘색 점 하나만 떠있네요 폰 기종 폴드8입니다",
           "category": "로그인",
           "is_new": false
-        },
-        {
-          "date_disp": "09월 28일",
-          "date_sort": "2026-09-28 06:24:05",
-          "rating": 1,
-          "author": "King Yolo",
-          "content": "아니 어플 에러 너무 심하고 접속안되고 구림 은행갈아타야하나? 리뷰 보니 캐시삭제? 다른 은행앱들는 캐시 한번도 삭제 안해도 잘되는데 기업은행 업데이트 안하는 알림 어플만 정상임; 심지어 캐시 삭제해도 안됨 ㅎ 이체를 못하는게 이게 실화냐 불안해서 원..",
-          "category": "앱 실행/오류",
-          "is_new": false
         }
       ]
     },
@@ -13663,9 +13663,18 @@
       "app_label": "i-ONE Bank 개인고객용",
       "platform": "iOS",
       "error": null,
-      "total": 249,
-      "new_count": 0,
+      "total": 250,
+      "new_count": 1,
       "reviews": [
+        {
+          "date_disp": "10월 31일",
+          "date_sort": "2026-10-31 04:53:18",
+          "rating": 1,
+          "author": "h am i",
+          "content": "[로그인이 안 됨] 카드 등록 때문에 홈페이지건 어플이건 다 찾아보는데 홈페이지에선 내 명의로 된 아이디가 없다고 그러고 ㅅㅂ 그럼 내가 받고있는 월급 계좌는 뭐고 쓰고있는 어플은 왜 내 이름으로 로그인이 돼 있는 건데",
+          "category": "로그인",
+          "is_new": true
+        },
         {
           "date_disp": "10월 26일",
           "date_sort": "2026-10-26 10:40:37",
@@ -15915,7 +15924,7 @@
       "platform": "Android",
       "error": null,
       "total": 115,
-      "new_count": 1,
+      "new_count": 0,
       "reviews": [
         {
           "date_disp": "10월 30일",
@@ -15924,7 +15933,7 @@
           "author": "전마늘님",
           "content": "입출금 알림함.자체가 그냥.늦구 버그걸려서 답이없음",
           "category": "앱 실행/오류",
-          "is_new": true
+          "is_new": false
         },
         {
           "date_disp": "10월 20일",
@@ -22155,9 +22164,18 @@
       "app_label": "i-ONE Bank 미니",
       "platform": "Android",
       "error": null,
-      "total": 137,
-      "new_count": 0,
+      "total": 138,
+      "new_count": 1,
       "reviews": [
+        {
+          "date_disp": "10월 31일",
+          "date_sort": "2026-10-31 16:22:30",
+          "rating": 2,
+          "author": "권효진",
+          "content": "왜 어플실행이안되요ㅡㅡ 제거하고 다시깔아도 실행안되요",
+          "category": "기타",
+          "is_new": true
+        },
         {
           "date_disp": "08월 11일",
           "date_sort": "2026-08-11 20:22:01",
